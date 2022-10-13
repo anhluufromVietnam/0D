@@ -1,2 +1,3 @@
-Đôi lời gửi công túa
-Log change by Anh Lưu
+# 0D
+The 0D project for vision shit things \
+E
